@@ -1,23 +1,16 @@
 # Anvarbek Atamuratov #
----
- ## Contacts ##
+## Contacts ##
   + Phone: +79122774562
-  + Email: isdany98@gmail.com   
-  + Github: [isdany](https://github.com/isdany "Anvarbek Atamuratov") 
----
+  + Email: isdany98@gmail.com
+  * Github: [isdany](https://github.com/isdany)
 ## About me ##
 I'm 4th year student at URFU.
 I love learning new skills and I'm also very friendly.
-___
-
 ## Skils ##
  + HTML
  + CSS
  + JavaScript (Basic)
  + Git
-
-___
-
 ## Code Example ##
 
 ```javascript
@@ -38,14 +31,9 @@ else {
      console.log("The number is negative");
 }
 ```
----
 ## Education ##
 + Ural Federal University
     + Faculty of Information systems and technologies
-___
-
 ## Experience ##
-___
-
 ## English ##
 A2
