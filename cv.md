@@ -6,7 +6,7 @@
 ## About me ##
 I'm 4th year student at URFU.
 I love learning new skills and I'm also very friendly.
-## Skils ##
+## Skills ##
  + HTML
  + CSS
  + JavaScript (Basic)
