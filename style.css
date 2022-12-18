@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital@1&display=swap');
+body{
+	font-family: 'Raleway', sans-serif;
+	background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfYSAe6SQ4K7AkSOWtac7FO50t3F77wfGMnQ&usqp=CAU);
+    padding: 100px 0;
+	
+}
+.container {
+	width: 850px;
+	min-height: 800px;
+	border: 8px solid white;
+	margin: 0 auto;
+	background: white;
+
+}
+.header	{
+	display: flex;
+	height: 150px;
+}
+.title-block{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 75%;
+	height: 100%;
+	border: 2px solid white;
+}
+.avatar{
+	display: flex;
+	width: 25%;
+	height: 100%;
+	border: 2px solid white;
+	background:url("./images/ava.jpg") no-repeat center center /cover;
+}
+.nav ul {
+display: flex;
+justify-content: flex-end;
+  align-items: center;
+background: rgb(209, 196, 196);
+margin: 10px 0;
+}
+li{
+	list-style-type: none;
+}
+.nav li a{
+display: flex;
+padding: 20px;
+text-decoration: none;
+color: black;
+font-weight: bold;
+border-right: 0.5px solid white;
+}
+.nav li a:hover{
+	background: rgb(163, 161, 161);
+}
+.content{
+	text-align: center;
+}
